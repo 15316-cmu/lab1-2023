@@ -58,7 +58,20 @@ def exc(
     max_steps: int=None,
     quiet: bool=False
 ) -> tuple[tn.State, Status, int]:
+    """
+    Execute a TinyScript program.
+
+    Args:
+        state (tn.State): initial state
+        alpha (tn.Prog): program to execute
+        max_steps (int, optional): maximum number of steps to execute
+        quiet (bool, optional): if True, don't print interpreter errors
+
+    Returns:
+        tuple[tn.State, Status, int]: final state, final status, # steps remaining
+    """
     if max_steps == 0:
+        print("we're 0!")
         return (state, Status.Maxsteps, 0)
     match alpha:
         case tn.Skip():
@@ -110,11 +123,9 @@ def exc(
                     case Status.Maxsteps|Status.Aborted|Status.Error:
                         return state
                 if state[2] == 0:
-                    return state
+                    return (state[0], Status.Maxsteps, 0)
                 if max_steps is not None:
-                    max_steps = min(
-                        state[2], 
-                        max_steps-1 if max_steps is not None else None)
+                    max_steps = min(state[2], max_steps-1)
                 state = state[0]
             return (state, Status.Maxsteps)
         case tn.Output(e):
