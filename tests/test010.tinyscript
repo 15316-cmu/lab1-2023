@@ -1,0 +1,29 @@
+a := -55;
+g := -79;
+c := 89;
+h := -48;
+j := -63;
+e := -95;
+if ((-21)==(120)) then
+    if (((b)-(168))==(e)) then
+        sec_2 := -93
+    else
+        g := (g)*((e)-(-101))
+    endif;
+    f := ((b)*(-254))+((250)-(sec_0));
+    h := ((70)*(sec_4))+(sec_4)
+else
+    if (!((-173)==(sec_2))) then
+        if (!((i)==(i))) then
+            skip
+        else
+            sec_0 := (e)-(c)
+        endif
+    else
+        if (((d)*(sec_2))==((f)+(a))) then
+            output (-148)-(-20)
+        else
+            output (119)*((h)*(-7))
+        endif
+    endif
+endif

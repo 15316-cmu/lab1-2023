@@ -1,0 +1,24 @@
+h := -63;
+b := -95;
+g := 76;
+c := 88;
+j := -87;
+if (((sec_0)-(-184))<(76)) then
+    if (((-28)+(d))<((sec_3)-(128))) then
+        h := ((-165)-(181))*((sec_4)-(-82))
+    else
+        if ((sec_2)==(i)) then
+            output (-247)+((219)-(g))
+        else
+            j := ((75)+(sec_2))-(h)
+        endif
+    endif
+else
+    if (((141)==(a))||((false)||(false))) then
+        b := (d)+((-147)-(b))
+    else
+        sec_3 := ((-7)-(sec_3))-((sec_0)+(-189))
+    endif;
+    output 112;
+    sec_0 := sec_0
+endif

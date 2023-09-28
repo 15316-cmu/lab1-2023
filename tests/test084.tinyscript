@@ -1,0 +1,25 @@
+g := -95;
+c := -97;
+f := -4;
+i := 34;
+if (((h)*(c))==((sec_4)-(-206))) then
+    if (((b)*(c))<((sec_4)+(200))) then
+        if ((252)==((sec_4)+(226))) then
+            output 105
+        else
+            h := (-107)-((d)+(-254))
+        endif
+    else
+        abort
+    endif
+else
+    if (!((-21)<(c))) then
+        if (((-85)+(b))==((165)+(-23))) then
+            output ((a)*(18))*((-231)*(-115))
+        else
+            skip
+        endif
+    else
+        e := ((sec_0)-(-195))*((h)-(-21))
+    endif
+endif

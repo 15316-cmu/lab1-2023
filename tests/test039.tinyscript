@@ -1,0 +1,30 @@
+a := 72;
+b := 20;
+c := -86;
+d := -58;
+e := 48;
+f := 62;
+g := -24;
+h := -37;
+i := 14;
+j := 26;
+sec_0 := 41;
+sec_1 := 18;
+sec_2 := -5;
+sec_3 := -12;
+sec_4 := 5;
+if (((236)==(sec_1))->((e)<(-9))) then
+    b := ((f)*(100))-((sec_3)-(-92));
+    if ((b)==((-65)*(-126))) then
+        skip
+    else
+        output ((j)-(sec_3))-((sec_3)-(g))
+    endif
+else
+    if (((false)||(false))->((237)<(sec_4))) then
+        output ((-74)*(188))-((115)+(c));
+        e := ((-121)+(sec_2))*(sec_1)
+    else
+        skip
+    endif
+endif

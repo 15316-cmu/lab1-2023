@@ -1,0 +1,23 @@
+h := -73;
+e := -87;
+a := -95;
+f := -48;
+if (((-99)*(67))<((d)+(-184))) then
+    if (((b)*(a))<((h)*(-121))) then
+        if (((-137)+(-122))==(f)) then
+            output ((-213)*(23))+((i)*(j))
+        else
+            g := ((229)-(-30))-(sec_1)
+        endif
+    else
+        output ((sec_2)-(g))-((-47)+(h));
+        i := ((-145)*(a))-((f)*(a))
+    endif
+else
+    if ((26)==((d)-(-101))) then
+        output (-9)*((147)*(sec_1));
+        output b
+    else
+        output ((d)-(sec_2))-((sec_4)-(h))
+    endif
+endif

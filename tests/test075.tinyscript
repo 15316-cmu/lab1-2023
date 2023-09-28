@@ -1,0 +1,27 @@
+i := -55;
+d := 97;
+h := 12;
+b := 62;
+c := 77;
+e := 75;
+f := 47;
+g := -58;
+if (((sec_2)-(h))==((-244)*(-236))) then
+    if ((144)<((-109)+(83))) then
+        while (((i)==(i))&&((false)&&(true))) do
+            g := ((-136)*(sec_4))-(-185)
+        done
+    else
+        sec_1 := -250
+    endif
+else
+    if ((-162)==((sec_4)-(-11))) then
+        sec_2 := (-139)+((-19)+(sec_0))
+    else
+        if ((sec_4)==(-63)) then
+            output c
+        else
+            output ((b)*(184))*((a)-(h))
+        endif
+    endif
+endif

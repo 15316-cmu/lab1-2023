@@ -1,0 +1,28 @@
+h := 35;
+d := -52;
+e := 9;
+c := -82;
+f := 95;
+j := -68;
+g := -54;
+if ((!(true))||((93)==(sec_4))) then
+    if (((213)==(22))->(!(true))) then
+        if (!((false)||(true))) then
+            output (9)-((-89)-(149))
+        else
+            g := ((g)*(-177))+((254)-(-202))
+        endif
+    else
+        skip
+    endif
+else
+    if (((a)<(-64))->((true)->(true))) then
+        if (((-57)==(e))->((153)<(-103))) then
+            sec_0 := sec_1
+        else
+            sec_1 := ((-182)+(-110))+((c)*(-186))
+        endif
+    else
+        g := (sec_0)+((-17)*(i))
+    endif
+endif

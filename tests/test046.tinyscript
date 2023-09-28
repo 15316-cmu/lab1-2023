@@ -1,0 +1,25 @@
+a := 66;
+g := -50;
+d := -49;
+if (((j)-(sec_4))==((b)*(-205))) then
+    if (((-63)+(d))==(sec_4)) then
+        sec_1 := -47;
+        output 105
+    else
+        if (((sec_2)-(sec_3))<((107)+(sec_2))) then
+            output ((-126)-(sec_3))*(h)
+        else
+            output (175)+((sec_1)-(sec_0))
+        endif
+    endif
+else
+    if (((14)+(c))<(20)) then
+        d := ((-113)+(169))-((sec_3)+(sec_0))
+    else
+        if (((j)-(f))==((e)*(55))) then
+            skip
+        else
+            output sec_4
+        endif
+    endif
+endif

@@ -1,0 +1,30 @@
+c := 86;
+j := -71;
+e := 48;
+a := 14;
+f := 2;
+i := 69;
+d := -51;
+h := 29;
+g := -57;
+while (((b)<(sec_0))&&((-105)==(g))) do
+    sec_2 := (sec_4)+((f)+(79))
+done;
+if (((sec_1)-(e))==((-207)*(e))) then
+    a := c
+else
+    c := ((sec_1)+(-116))-(92)
+endif;
+if (((false)&&(false))||((true)&&(false))) then
+    if (!((true)&&(true))) then
+        output ((45)+(e))-(-60)
+    else
+        i := -165
+    endif
+else
+    if (((sec_1)-(-177))<((e)+(183))) then
+        output -248
+    else
+        output (-231)-(-125)
+    endif
+endif

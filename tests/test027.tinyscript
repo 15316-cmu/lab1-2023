@@ -1,0 +1,31 @@
+a := 44;
+b := -31;
+c := 45;
+d := -83;
+e := -60;
+f := 84;
+g := -83;
+h := -73;
+i := 40;
+j := 23;
+sec_0 := 52;
+sec_1 := 21;
+sec_2 := -83;
+sec_3 := 11;
+sec_4 := 12;
+if ((f)==(-65)) then
+    output ((a)*(sec_1))*((61)-(-251));
+    output ((-30)+(sec_4))*(167)
+else
+    if (((false)->(false))->((-105)==(a))) then
+        while ((j)<(sec_1)) do
+            sec_4 := ((g)+(f))-(-251)
+        done
+    else
+        if ((-131)==((b)-(c))) then
+            output ((i)*(sec_4))*((h)+(c))
+        else
+            skip
+        endif
+    endif
+endif

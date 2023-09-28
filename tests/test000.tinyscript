@@ -1,0 +1,28 @@
+f := -93;
+c := 7;
+b := 14;
+e := 59;
+i := -52;
+a := 22;
+j := -55;
+if (((-188)*(sec_4))==((134)+(g))) then
+    if (((sec_1)+(120))<((149)+(-89))) then
+        while (((58)*(-155))==(-238)) do
+            c := sec_3
+        done
+    else
+        if ((i)<((f)-(175))) then
+            output (-248)*(200)
+        else
+            output b
+        endif
+    endif
+else
+    output ((-194)*(f))-((e)-(c));
+    a := ((-232)*(-28))-((d)*(a));
+    if ((sec_2)<(i)) then
+        g := (g)*(b)
+    else
+        output ((127)-(-66))+((-92)*(c))
+    endif
+endif

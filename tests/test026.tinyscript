@@ -1,0 +1,29 @@
+i := 37;
+b := 92;
+c := -44;
+if (!((false)&&(true))) then
+    if ((-22)==((c)*(241))) then
+        h := (139)-(-184)
+    else
+        skip
+    endif
+else
+    if (((-70)-(172))<((sec_2)*(h))) then
+        output -204
+    else
+        skip
+    endif
+endif;
+if (((c)*(252))<((-142)*(14))) then
+    if ((d)==((e)-(-4))) then
+        output ((b)+(sec_0))-((-55)-(e))
+    else
+        b := ((77)*(-62))-(e)
+    endif
+else
+    if ((-171)<(-14)) then
+        i := ((sec_0)-(-228))+(sec_2)
+    else
+        d := (sec_3)-((-123)*(a))
+    endif
+endif

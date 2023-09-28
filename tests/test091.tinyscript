@@ -1,0 +1,23 @@
+c := 57;
+g := 2;
+a := 49;
+if ((98)==((-5)+(g))) then
+    if (((sec_3)*(e))==((21)-(sec_1))) then
+        sec_2 := ((sec_1)*(-200))+((c)-(e))
+    else
+        output ((54)+(-225))+(sec_2)
+    endif;
+    output (i)+((-60)-(j))
+else
+    if (((g)*(-182))<(-230)) then
+        while (((sec_3)*(sec_3))==((c)+(f))) do
+            output sec_3
+        done
+    else
+        if ((14)<((sec_0)+(sec_0))) then
+            skip
+        else
+            output ((-217)*(sec_2))-((-8)*(-22))
+        endif
+    endif
+endif

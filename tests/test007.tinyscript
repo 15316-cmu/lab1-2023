@@ -1,0 +1,29 @@
+b := -39;
+c := 46;
+e := 54;
+i := 68;
+a := -1;
+g := 31;
+d := 30;
+f := 58;
+j := 43;
+if (((sec_1)+(6))<(a)) then
+    if (((-32)-(-62))==((-134)-(h))) then
+        if (((true)&&(true))->((true)->(true))) then
+            skip
+        else
+            output -161
+        endif
+    else
+        output (-211)-((107)*(b));
+        output (sec_4)-(-109)
+    endif
+else
+    output 81;
+    sec_1 := 56;
+    if (((sec_2)==(200))&&((207)==(170))) then
+        e := (-82)+(e)
+    else
+        skip
+    endif
+endif

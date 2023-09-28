@@ -1,0 +1,29 @@
+a := 13;
+b := -40;
+c := 80;
+d := 66;
+e := -7;
+f := -31;
+g := -76;
+h := 39;
+i := -97;
+j := 46;
+sec_0 := -8;
+sec_1 := -73;
+sec_2 := -75;
+sec_3 := 89;
+sec_4 := -43;
+if ((194)==((e)*(118))) then
+    output (sec_0)+(g);
+    output sec_4;
+    output ((200)-(c))+((99)+(228))
+else
+    while (((-213)==(i))||((142)==(139))) do
+        output ((244)*(135))*(-190)
+    done;
+    if (((false)&&(true))&&((false)->(false))) then
+        sec_0 := ((sec_0)+(72))-(138)
+    else
+        j := ((g)+(sec_4))+((sec_4)*(j))
+    endif
+endif

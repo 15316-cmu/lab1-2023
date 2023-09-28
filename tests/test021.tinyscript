@@ -1,0 +1,27 @@
+h := -2;
+g := -36;
+j := -30;
+e := -88;
+if (((sec_0)+(-54))<((sec_4)*(46))) then
+    if (((sec_0)<(h))->((sec_3)==(sec_0))) then
+        sec_2 := (g)+(j)
+    else
+        skip
+    endif;
+    if (!(!(false))) then
+        skip
+    else
+        output (157)*(a)
+    endif
+else
+    if ((b)==((a)+(sec_1))) then
+        if (((28)*(sec_2))<(e)) then
+            output (-7)+((b)-(-185))
+        else
+            skip
+        endif
+    else
+        output sec_2;
+        h := (g)+((sec_0)-(sec_0))
+    endif
+endif

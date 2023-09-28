@@ -1,0 +1,30 @@
+j := -7;
+f := 94;
+i := -70;
+d := -48;
+e := 1;
+b := -57;
+g := -76;
+if (((false)&&(false))&&((d)==(sec_1))) then
+    if ((-181)<(a)) then
+        if (((sec_3)-(h))<(c)) then
+            output (sec_2)+((c)-(91))
+        else
+            i := sec_2
+        endif
+    else
+        if ((sec_1)==(b)) then
+            output ((-103)+(22))+((-197)-(sec_0))
+        else
+            skip
+        endif
+    endif
+else
+    while (((-187)*(d))==((h)*(c))) do
+        if (((i)==(180))||((167)<(250))) then
+            skip
+        else
+            sec_1 := 83
+        endif
+    done
+endif

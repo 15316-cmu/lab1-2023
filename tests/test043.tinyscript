@@ -1,0 +1,27 @@
+j := 63;
+a := 30;
+d := -91;
+e := 35;
+f := 37;
+c := -99;
+i := -86;
+g := -13;
+if (((h)*(h))==((201)+(225))) then
+    if (((83)==(-118))||((d)<(sec_0))) then
+        while (!((true)&&(true))) do
+            output sec_3
+        done
+    else
+        sec_2 := -103
+    endif
+else
+    if (((56)<(h))||((-81)<(i))) then
+        if (((155)+(171))==((sec_1)+(80))) then
+            output ((146)-(sec_1))+((-133)-(-92))
+        else
+            output ((227)*(-185))+((e)*(-170))
+        endif
+    else
+        sec_1 := ((-31)*(-15))+((h)*(b))
+    endif
+endif

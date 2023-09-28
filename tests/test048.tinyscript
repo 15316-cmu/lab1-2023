@@ -1,0 +1,30 @@
+a := -39;
+e := 51;
+f := 22;
+c := 28;
+b := 47;
+h := 55;
+d := 70;
+i := -73;
+if ((!(false))&&((sec_0)<(e))) then
+    if (((true)->(false))&&((154)<(-205))) then
+        if (((-54)*(b))<((sec_4)-(45))) then
+            skip
+        else
+            output (-195)+((-245)*(106))
+        endif
+    else
+        output ((25)*(-109))*((-39)-(-244));
+        i := ((a)*(-40))*(-91)
+    endif
+else
+    if (!((c)==(-184))) then
+        if (((-156)-(sec_1))<(e)) then
+            skip
+        else
+            output j
+        endif
+    else
+        output ((g)+(b))-((27)*(sec_3))
+    endif
+endif

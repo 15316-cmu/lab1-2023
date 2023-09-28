@@ -1,0 +1,28 @@
+g := -31;
+d := 97;
+j := 48;
+f := 64;
+i := 48;
+c := 41;
+if (((sec_3)*(-233))==((255)+(c))) then
+    if (((f)*(101))==((c)-(228))) then
+        if (((j)==(165))->((true)->(false))) then
+            f := (48)+((-186)+(34))
+        else
+            output sec_1
+        endif
+    else
+        if (!((-99)==(j))) then
+            output ((i)+(e))*((-243)*(h))
+        else
+            b := a
+        endif
+    endif
+else
+    output 74;
+    if (((-19)*(sec_3))==(201)) then
+        output h
+    else
+        skip
+    endif
+endif

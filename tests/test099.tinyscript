@@ -1,0 +1,26 @@
+j := -60;
+b := 22;
+g := -24;
+if (((f)==(16))->((false)&&(true))) then
+    if (((-230)+(sec_4))==(-47)) then
+        output ((113)+(44))*(203);
+        output -252
+    else
+        if (((37)*(-223))<((-75)+(-166))) then
+            e := (130)+((-60)-(sec_0))
+        else
+            output ((-58)+(52))*(-119)
+        endif
+    endif
+else
+    if (((-230)+(-33))<((e)*(-126))) then
+        if (!((sec_0)<(26))) then
+            output ((-25)-(c))*(f)
+        else
+            skip
+        endif
+    else
+        f := -27;
+        output ((sec_4)*(-128))-(10)
+    endif
+endif

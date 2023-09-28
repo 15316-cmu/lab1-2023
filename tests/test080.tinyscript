@@ -1,0 +1,25 @@
+d := -7;
+i := -49;
+b := 2;
+a := -33;
+e := 35;
+j := 28;
+if ((117)<((sec_0)-(sec_4))) then
+    sec_2 := ((g)-(g))-(152)
+else
+    if (((-218)==(i))&&((g)<(-191))) then
+        sec_1 := (h)-(j)
+    else
+        output ((e)*(192))*((sec_4)*(b))
+    endif
+endif;
+if (((e)<(-128))->((false)||(true))) then
+    output (d)-((-235)-(a));
+    f := ((sec_1)-(188))+((85)+(-123))
+else
+    if ((g)<(-234)) then
+        f := ((43)-(-98))+((-246)*(-185))
+    else
+        output ((sec_1)-(e))*((i)*(i))
+    endif
+endif

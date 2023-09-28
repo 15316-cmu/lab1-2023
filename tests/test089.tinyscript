@@ -1,0 +1,24 @@
+d := 50;
+g := -21;
+b := -31;
+c := -2;
+if (((sec_0)*(211))<((-134)-(f))) then
+    if (((242)+(f))<(j)) then
+        if (((false)->(true))&&((true)->(false))) then
+            d := (-24)-((e)+(sec_0))
+        else
+            h := ((-14)*(f))+((j)-(a))
+        endif
+    else
+        output (126)*((-224)+(231));
+        c := ((sec_0)-(158))-(-188)
+    endif
+else
+    if (!((sec_2)<(a))) then
+        skip
+    else
+        while (!((-95)==(223))) do
+            output (141)*((e)*(-99))
+        done
+    endif
+endif

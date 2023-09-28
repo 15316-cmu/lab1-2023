@@ -1,0 +1,23 @@
+i := 58;
+c := 71;
+if (((49)-(-23))==((186)+(178))) then
+    if ((b)<((sec_1)-(-133))) then
+        a := ((f)+(sec_4))-((-74)+(sec_1))
+    else
+        g := (b)-((242)*(109))
+    endif
+else
+    if (((false)->(false))->((i)==(-203))) then
+        if (((-28)<(-194))->((173)<(c))) then
+            skip
+        else
+            output (-199)+((254)-(c))
+        endif
+    else
+        if (((sec_1)+(211))==(sec_0)) then
+            g := ((h)*(f))-(c)
+        else
+            output -197
+        endif
+    endif
+endif

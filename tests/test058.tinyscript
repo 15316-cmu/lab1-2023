@@ -1,0 +1,26 @@
+j := -32;
+b := 14;
+a := 84;
+f := 26;
+c := -50;
+g := 97;
+d := 71;
+h := -64;
+e := 2;
+if ((55)==((-176)*(-92))) then
+    if (((-101)-(-17))<((159)*(f))) then
+        skip
+    else
+        sec_1 := (sec_2)-((-28)*(e))
+    endif;
+    output ((119)*(b))+(sec_1)
+else
+    if (((b)==(sec_2))||((true)&&(false))) then
+        while (!((sec_2)<(c))) do
+            output ((116)+(f))*((96)*(54))
+        done
+    else
+        g := ((-158)-(j))*((sec_0)+(sec_3));
+        output ((sec_0)+(-176))-(139)
+    endif
+endif

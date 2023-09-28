@@ -1,0 +1,26 @@
+f := -43;
+b := 59;
+a := 63;
+d := 98;
+c := 31;
+e := -77;
+g := 67;
+if (((i)*(sec_2))<((-172)-(f))) then
+    if ((238)<((-34)*(sec_1))) then
+        while (((a)-(-21))<((-106)*(f))) do
+            e := (31)-(e)
+        done
+    else
+        f := ((-142)*(-155))-((-67)+(225))
+    endif
+else
+    if (((79)<(g))->((false)||(true))) then
+        sec_1 := ((93)*(i))*(h)
+    else
+        if (!((-80)<(f))) then
+            a := ((11)+(237))+((sec_4)+(-89))
+        else
+            skip
+        endif
+    endif
+endif

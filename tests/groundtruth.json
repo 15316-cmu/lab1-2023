@@ -1,0 +1,502 @@
+{
+  "tests/test000.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test001.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test002.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test003.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test004.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test005.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test006.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test007.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test008.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test009.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test010.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test011.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test012.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test013.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test014.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test015.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test016.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test017.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test018.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test019.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test020.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test021.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test022.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test023.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test024.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test025.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test026.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test027.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test028.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test029.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test030.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test031.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test032.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test033.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test034.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test035.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test036.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test037.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test038.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test039.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test040.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test041.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test042.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test043.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test044.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test045.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test046.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test047.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test048.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test049.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test050.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test051.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test052.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test053.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test054.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test055.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test056.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test057.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test058.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test059.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test060.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test061.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test062.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test063.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test064.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test065.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test066.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test067.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test068.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test069.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test070.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test071.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test072.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test073.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test074.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test075.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test076.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test077.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test078.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test079.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test080.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test081.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test082.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test083.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test084.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test085.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test086.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  },
+  "tests/test087.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test088.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test089.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test090.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test091.tinyscript": {
+    "runtime": "Result.Violates",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test092.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test093.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test094.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test095.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test096.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test097.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test098.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Satisfies",
+    "taint": "Result.Satisfies"
+  },
+  "tests/test099.tinyscript": {
+    "runtime": "Result.Satisfies",
+    "defuse": "Result.Violates",
+    "taint": "Result.Violates"
+  }
+}

@@ -1,0 +1,25 @@
+e := 63;
+i := 13;
+a := -43;
+g := -20;
+f := 4;
+b := -53;
+if ((!(false))||((-64)==(-93))) then
+    if (((c)==(96))||(!(false))) then
+        if (!((true)->(false))) then
+            output ((230)*(0))+(218)
+        else
+            output (d)+((-128)+(d))
+        endif
+    else
+        if (((204)-(sec_4))==(sec_3)) then
+            j := -148
+        else
+            sec_1 := ((184)*(sec_3))*(253)
+        endif
+    endif
+else
+    while (((g)*(-82))<(sec_3)) do
+        output ((sec_3)+(d))+(242)
+    done
+endif
