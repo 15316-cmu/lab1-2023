@@ -1,0 +1,29 @@
+d := -92;
+f := -98;
+e := 56;
+a := -75;
+if ((157)==(-86)) then
+    output 87
+else
+    j := sec_3;
+    sec_3 := ((-207)*(240))-((i)-(32))
+endif;
+output j;
+if (((215)+(-32))==(-154)) then
+    g := sec_4;
+    output ((sec_0)-(-15))*((180)-(e))
+else
+    sec_0 := ((sec_0)-(105))-(-253)
+endif;
+output g;
+if ((sec_3)==(sec_0)) then
+    j := sec_0;
+    output (112)+((157)-(sec_1))
+else
+    j := sec_0;
+    sec_1 := (245)+((j)-(sec_0))
+endif;
+output j;
+while (((sec_3)-(sec_1))<(-148)) do
+    output sec_1
+done

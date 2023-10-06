@@ -1,0 +1,37 @@
+a := 93;
+b := -83;
+c := 70;
+d := 23;
+e := -35;
+f := 86;
+g := 76;
+h := -58;
+i := 10;
+j := 22;
+sec_0 := -89;
+sec_1 := 90;
+sec_2 := 82;
+sec_3 := -52;
+sec_4 := -51;
+if (((sec_2)*(201))==((i)+(c))) then
+    b := sec_3;
+    sec_0 := 4
+else
+    b := sec_3;
+    h := ((i)+(-200))*((-126)*(i))
+endif;
+output b;
+if (((c)+(g))==((-201)-(-123))) then
+    e := sec_2
+else
+    e := sec_2;
+    output ((-135)+(128))*((b)+(sec_2))
+endif;
+output e;
+if ((c)<(150)) then
+    d := j
+else
+    h := sec_3;
+    sec_4 := 36
+endif;
+output h

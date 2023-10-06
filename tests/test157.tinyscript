@@ -1,0 +1,26 @@
+h := -77;
+e := 84;
+while (((false)&&(true))->((e)==(sec_0))) do
+    if (((-217)-(sec_0))==((i)*(sec_3))) then
+        b := sec_0;
+        output ((-38)+(164))*((-46)*(d))
+    else
+        b := sec_0
+    endif;
+    output b
+done;
+if ((sec_2)<(156)) then
+    h := sec_3;
+    h := ((sec_4)*(sec_2))-(-117)
+else
+    h := sec_3;
+    b := (g)*(72)
+endif;
+output h;
+if (((g)<(b))||((false)&&(false))) then
+    d := sec_2;
+    c := (28)-((-147)+(sec_1))
+else
+    output ((-96)+(-1))-((sec_3)-(sec_2))
+endif;
+output d

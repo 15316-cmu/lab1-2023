@@ -1,0 +1,32 @@
+a := 40;
+b := -23;
+c := -51;
+d := 31;
+e := -39;
+f := 32;
+g := -24;
+h := 19;
+i := -93;
+j := -94;
+sec_0 := -71;
+sec_1 := 77;
+sec_2 := 40;
+sec_3 := 63;
+sec_4 := -71;
+sec_1 := ((99)+(180))+((-174)-(-177));
+if (((g)*(sec_4))==((79)+(-222))) then
+    sec_4 := ((a)+(sec_3))+((f)+(c))
+else
+    h := sec_1;
+    output 30
+endif;
+output h;
+while ((sec_4)==(sec_0)) do
+    if (((g)*(117))<(-147)) then
+        e := sec_1;
+        output ((sec_0)-(-16))*((j)-(e))
+    else
+        sec_0 := (sec_2)+((i)*(50))
+    endif;
+    output e
+done

@@ -1,0 +1,27 @@
+f := -40;
+g := -13;
+while (((h)-(211))==((-107)+(240))) do
+    if ((253)<((38)+(101))) then
+        g := sec_4;
+        output ((sec_3)*(38))-((sec_4)-(237))
+    else
+        b := (212)*((141)-(d))
+    endif;
+    output g
+done;
+if (!((false)||(false))) then
+    h := sec_1;
+    output (c)-((j)+(-44))
+else
+    h := sec_1;
+    h := ((-153)*(b))-((-152)*(f))
+endif;
+output h;
+if (((g)-(-30))<(79)) then
+    c := sec_2;
+    output ((147)+(sec_4))+(-89)
+else
+    c := sec_2;
+    output 188
+endif;
+output c

@@ -1,0 +1,29 @@
+b := 93;
+i := 70;
+g := -46;
+d := 64;
+c := -83;
+while (((b)*(d))<((f)+(j))) do
+    if (((i)+(f))==((239)+(c))) then
+        j := sec_4;
+        output ((-204)-(-19))-(-119)
+    else
+        j := sec_4;
+        output 110
+    endif;
+    output j
+done;
+if (((true)->(false))||((-90)==(sec_3))) then
+    h := sec_2;
+    h := g
+else
+    output ((sec_2)-(c))+((-242)*(-256))
+endif;
+output h;
+if (((sec_1)+(-119))<(b)) then
+    f := sec_4;
+    output ((175)*(112))+((a)+(i))
+else
+    sec_1 := ((69)-(172))-(e)
+endif;
+output f

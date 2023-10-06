@@ -1,0 +1,33 @@
+b := -48;
+d := -35;
+g := 66;
+a := 95;
+if (((212)*(-27))==(h)) then
+    sec_2 := b
+else
+    c := sec_0;
+    output i
+endif;
+output c;
+if ((74)==(60)) then
+    h := sec_2;
+    output (g)+((g)-(22))
+else
+    output ((112)-(3))+((9)-(126))
+endif;
+output h;
+if (((240)==(-3))||((-231)==(h))) then
+    h := sec_1;
+    i := ((72)-(sec_4))-((b)-(83))
+else
+    h := sec_1;
+    h := e
+endif;
+output h;
+if (((d)*(sec_2))==((sec_0)-(122))) then
+    skip
+else
+    h := sec_4;
+    i := ((a)*(c))+((sec_0)*(59))
+endif;
+output h

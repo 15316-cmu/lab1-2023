@@ -1,0 +1,32 @@
+d := 81;
+f := -51;
+g := 4;
+if (((sec_4)*(47))==(sec_1)) then
+    i := sec_0;
+    output ((80)*(f))+((18)-(240))
+else
+    i := sec_0;
+    h := (218)-(d)
+endif;
+output i;
+if ((!(false))&&((true)&&(false))) then
+    h := sec_2;
+    output ((-250)-(-223))+(-50)
+else
+    skip
+endif;
+output h;
+if (((254)<(f))->((sec_3)==(i))) then
+    h := sec_2;
+    output ((j)*(233))-((b)*(140))
+else
+    d := ((f)*(-185))*((149)+(d))
+endif;
+output h;
+if (((208)-(197))==(h)) then
+    c := sec_0;
+    sec_0 := (sec_2)*(sec_2)
+else
+    skip
+endif;
+output c

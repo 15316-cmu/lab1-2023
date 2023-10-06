@@ -1,0 +1,28 @@
+b := -54;
+j := -24;
+h := -22;
+if ((!(false))&&((false)&&(false))) then
+    skip
+else
+    c := sec_1;
+    output -129
+endif;
+output c;
+if (((129)-(sec_1))==((-182)-(f))) then
+    c := sec_4;
+    j := ((184)+(100))*((d)*(b))
+else
+    c := sec_4;
+    output ((252)+(206))*(b)
+endif;
+output c;
+if (((true)->(true))->((61)==(sec_2))) then
+    sec_4 := (sec_2)-(-202)
+else
+    i := sec_3;
+    output ((-106)+(c))*((d)-(90))
+endif;
+output i;
+while ((27)==((127)+(229))) do
+    sec_3 := ((124)+(sec_0))-((f)*(f))
+done

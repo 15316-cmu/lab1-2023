@@ -1,0 +1,35 @@
+a := 65;
+b := 69;
+c := -33;
+d := -38;
+e := -9;
+f := 62;
+g := 66;
+h := 16;
+i := -98;
+j := 54;
+sec_0 := -94;
+sec_1 := 70;
+sec_2 := 75;
+sec_3 := 51;
+sec_4 := 55;
+output -152;
+output sec_2;
+if (((true)||(true))||((true)&&(false))) then
+    h := sec_0;
+    sec_2 := (-6)-(c)
+else
+    h := sec_0;
+    sec_1 := ((-101)+(i))*(-18)
+endif;
+output h;
+while ((160)==(-215)) do
+    if (((j)-(-215))==((e)*(-14))) then
+        h := sec_1;
+        f := ((139)+(129))-((i)-(sec_3))
+    else
+        h := sec_1;
+        g := ((244)+(h))+(-74)
+    endif;
+    output h
+done

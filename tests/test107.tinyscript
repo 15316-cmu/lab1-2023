@@ -1,0 +1,32 @@
+j := -50;
+f := 75;
+h := -46;
+a := 84;
+if (((27)+(sec_0))<((-117)*(sec_4))) then
+    d := (j)-((109)-(-56))
+else
+    i := sec_2;
+    output ((85)*(f))-((c)*(241))
+endif;
+output i;
+if ((!(false))->((true)&&(true))) then
+    skip
+else
+    h := sec_1;
+    output (225)+(e)
+endif;
+output h;
+if (((f)<(g))&&((true)&&(false))) then
+    h := sec_1;
+    output ((c)+(-151))+((j)*(203))
+else
+    skip
+endif;
+output h;
+if (((sec_4)<(sec_2))||((true)->(false))) then
+    output 37
+else
+    e := sec_1;
+    output -117
+endif;
+output e

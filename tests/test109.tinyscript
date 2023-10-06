@@ -1,0 +1,29 @@
+i := -90;
+d := 58;
+c := 48;
+h := 29;
+e := -71;
+g := 65;
+while (((b)<(128))&&((g)<(a))) do
+    if ((f)<(10)) then
+        h := sec_2;
+        e := ((230)-(h))*((18)-(169))
+    else
+        output (sec_4)-((d)-(sec_4))
+    endif;
+    output h
+done;
+if (((211)==(-165))&&((-185)==(-199))) then
+    d := sec_2
+else
+    d := sec_2;
+    output ((c)-(g))+((e)+(178))
+endif;
+output d;
+if (((sec_2)+(48))==((-139)-(225))) then
+    h := sec_0;
+    c := ((112)+(g))-((sec_2)*(j))
+else
+    output (sec_1)-(-180)
+endif;
+output h

@@ -1,0 +1,33 @@
+g := 40;
+b := -23;
+c := -7;
+h := -66;
+f := -12;
+d := 52;
+i := 60;
+a := -99;
+e := 45;
+while (((sec_4)*(239))<((-143)-(-223))) do
+    if (!((-41)==(a))) then
+        b := sec_0;
+        c := sec_1
+    else
+        b := sec_0;
+        sec_1 := 202
+    endif;
+    output b
+done;
+if (((b)==(-236))->((e)==(-195))) then
+    output sec_4
+else
+    f := sec_0;
+    output ((236)-(d))*(233)
+endif;
+output f;
+if (((183)-(-80))<(sec_1)) then
+    h := (-242)-((163)+(i))
+else
+    h := sec_0;
+    output (e)*((222)-(d))
+endif;
+output h

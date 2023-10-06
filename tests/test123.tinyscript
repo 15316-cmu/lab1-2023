@@ -1,0 +1,27 @@
+c := -61;
+i := -65;
+a := 13;
+if (((sec_2)<(211))->((sec_3)<(-141))) then
+    h := sec_1;
+    output j
+else
+    output ((j)-(a))-((-112)+(sec_4))
+endif;
+output h;
+if (((-222)<(h))||((c)==(d))) then
+    h := sec_0;
+    sec_2 := (133)-((232)+(d))
+else
+    skip
+endif;
+output h;
+while (((132)<(sec_1))||((-23)==(sec_3))) do
+    if (((j)*(sec_3))<((-232)*(sec_3))) then
+        a := sec_3;
+        sec_4 := (25)*(-14)
+    else
+        a := sec_3;
+        output ((46)*(-29))-((sec_0)-(148))
+    endif;
+    output a
+done

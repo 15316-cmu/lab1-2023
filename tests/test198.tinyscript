@@ -1,0 +1,28 @@
+h := 85;
+e := 4;
+d := -62;
+c := 32;
+if (((19)*(-34))<((-161)+(sec_3))) then
+    a := ((90)-(j))-((-195)+(f))
+else
+    g := sec_3
+endif;
+output g;
+if (((-61)<(h))||((13)==(-92))) then
+    h := sec_3;
+    output 196
+else
+    h := sec_3;
+    h := ((90)+(i))+(132)
+endif;
+output h;
+while (((c)*(h))==((-7)-(-249))) do
+    if ((-31)<((sec_4)+(65))) then
+        g := sec_2;
+        j := ((c)+(g))-(sec_2)
+    else
+        g := sec_2;
+        output ((sec_1)+(-82))-((-37)*(87))
+    endif;
+    output g
+done

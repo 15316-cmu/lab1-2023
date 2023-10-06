@@ -1,0 +1,26 @@
+j := 72;
+d := 5;
+while (((171)-(-61))==((a)*(b))) do
+    if (!((202)==(sec_4))) then
+        a := sec_4;
+        output (77)*((105)-(-165))
+    else
+        d := (sec_3)*((-194)-(d))
+    endif;
+    output a
+done;
+if (((h)<(-134))&&((d)==(a))) then
+    j := sec_4;
+    sec_4 := ((h)*(c))*((d)*(sec_4))
+else
+    j := sec_4;
+    output (-74)+((175)*(a))
+endif;
+output j;
+if (((b)+(sec_2))<((-11)*(c))) then
+    sec_2 := ((a)*(-10))-(sec_1)
+else
+    h := sec_0;
+    sec_2 := ((i)+(j))+((a)-(c))
+endif;
+output h

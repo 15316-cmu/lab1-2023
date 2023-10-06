@@ -1,0 +1,28 @@
+i := 80;
+d := 12;
+a := 48;
+if (((120)-(sec_3))==((sec_3)-(-38))) then
+    h := sec_1;
+    g := ((-167)+(-255))-(f)
+else
+    output (231)*((i)+(b))
+endif;
+output h;
+if (((sec_4)==(82))->((-64)==(-21))) then
+    h := sec_4
+else
+    h := sec_4;
+    f := b
+endif;
+output h;
+if (((101)<(-249))->((-196)<(j))) then
+    f := sec_0;
+    output (i)+((59)+(sec_0))
+else
+    f := sec_0;
+    j := ((g)+(18))+((49)*(251))
+endif;
+output f;
+while (((h)<(-135))||((50)<(-39))) do
+    output ((g)+(sec_1))+((150)*(-59))
+done

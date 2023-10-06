@@ -1,0 +1,25 @@
+i := 19;
+while ((-101)<(sec_4)) do
+    if (((a)==(h))||((88)<(-184))) then
+        i := sec_3;
+        output ((172)-(h))+((sec_3)+(sec_0))
+    else
+        i := sec_3;
+        f := ((-220)*(160))*(sec_3)
+    endif;
+    output i
+done;
+if (((sec_1)+(i))==((h)-(95))) then
+    h := sec_0;
+    output ((-185)-(sec_1))-((g)*(-27))
+else
+    output ((142)-(sec_0))-((h)+(110))
+endif;
+output h;
+if ((96)<((sec_4)+(i))) then
+    h := sec_0;
+    output ((g)-(208))-((a)+(209))
+else
+    h := sec_0
+endif;
+output h
