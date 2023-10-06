@@ -27,34 +27,39 @@ if __name__ == "__main__":
 
 	TEST_DIR = Path('.') / 'tests'
 
+	subset = None
+	
 	if not TEST_DIR.is_dir():
 		raise ValueError(f"Expected {TEST_DIR} to be a directory")
 
-	with open('tests/groundtruth.json', 'r') as f:
+	with open(TEST_DIR / 'groundtruth.json', 'r') as f:
 		truth = json.load(f)
 
 	results = {}
 
-	for test_file in list(TEST_DIR.iterdir()):
-		if not str(test_file).endswith('tinyscript'):
-			continue
-		with test_file.open() as f:
-			prog = parse(f.read())
-			runtime_res = runtime.symbolic_check(prog, 100)
-			defuse_res = defuse.symbolic_check(prog)
-			taint_res = taint.symbolic_check(prog)
+	cases = sorted(list(TEST_DIR.iterdir()))
 
-			true_i = truth[str(test_file)]
-			runtime_score = score(str(runtime_res), true_i['runtime'])
-			defuse_score = score(str(defuse_res), true_i['defuse'])
-			taint_score = score(str(taint_res), true_i['taint'])
+	for test_file in cases:
+		if subset is None or test_file.name[4:7] in subset:
+			if not str(test_file).endswith('tinyscript'):
+				continue
+			with test_file.open() as f:
+				prog = parse(f.read())
+				runtime_res = runtime.symbolic_check(prog, 100)
+				defuse_res = defuse.symbolic_check(prog)
+				taint_res = taint.symbolic_check(prog)
 
-			results = (results | {
-				str(test_file): {'runtime': runtime_score,
-								 'defuse': defuse_score,
-								 'taint': taint_score}}
-				)
-			print(f"{test_file}:", json.dumps(results[str(test_file)]))
+				true_i = truth[str(test_file)]
+				runtime_score = score(str(runtime_res), true_i['runtime'])
+				defuse_score = score(str(defuse_res), true_i['defuse'])
+				taint_score = score(str(taint_res), true_i['taint'])
+
+				results = (results | {
+					str(test_file): {'runtime': runtime_score,
+									'defuse': defuse_score,
+									'taint': taint_score}}
+					)
+				print(f"{test_file}:", json.dumps(results[str(test_file)]))
 
 	runtime_total = sum([results[k]['runtime'] for k in results.keys()])
 	defuse_total = sum([results[k]['defuse'] for k in results.keys()])
@@ -62,7 +67,7 @@ if __name__ == "__main__":
 
 	print((
 		f"\ntotals:" 
-		f"\n\truntime={runtime_total}/100" 
-		f"\n\tdefuse={defuse_total}/100" 
-		f"\n\ttaint={taint_total}/100"))
-	print(f"\toverall={runtime_total+defuse_total+taint_total}/300")
+		f"\n\truntime={runtime_total}/{len(cases)-1}" 
+		f"\n\tdefuse={defuse_total}/{len(cases)-1}" 
+		f"\n\ttaint={taint_total}/{len(cases)-1}"))
+	print(f"\toverall={runtime_total+defuse_total+taint_total}/{3*(len(cases)-1)}")
